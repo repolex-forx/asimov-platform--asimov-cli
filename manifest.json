@@ -465,6 +465,61 @@
         "blob/0d29b413d3a30a3012cc627862195caea84ea5e1.nq.gz",
         "blob/2b92969eb97d39073469eca879edf22c2fbeaefd.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/28d5aa6104b1baf8431afad7c992612eba45b2a7.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/28d5aa6104b1baf8431afad7c992612eba45b2a7.nq.gz",
+      "repolex": "aggregate/repolex/28d5aa6104b1baf8431afad7c992612eba45b2a7.nq.gz",
+      "dep": "dep/28d5aa6104b1baf8431afad7c992612eba45b2a7.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.2.5",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "02a4021705fc7bd01f10f2ae858252234c6b1b30",
+          "githubTag": "0.2.5",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "cfg_aliases",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "katharostech",
+          "githubRepo": "cfg_aliases",
+          "githubUrl": "https://github.com/katharostech/cfg_aliases",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "shadow-rs",
+          "ecosystem": "CARGO",
+          "version": "0.34",
+          "githubOrg": "baoyachi",
+          "githubRepo": "shadow-rs",
+          "githubUrl": "https://github.com/baoyachi/shadow-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "cc",
+          "ecosystem": "CARGO",
+          "version": "1.1",
+          "githubOrg": "rust-lang",
+          "githubRepo": "cc-rs",
+          "githubUrl": "https://github.com/rust-lang/cc-rs",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
