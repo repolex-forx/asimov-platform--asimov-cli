@@ -917,6 +917,244 @@
         "blob/0d29b413d3a30a3012cc627862195caea84ea5e1.nq.gz",
         "blob/2b92969eb97d39073469eca879edf22c2fbeaefd.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/1988e90c39a8274f72a42214a59ea1ebc128f9fc.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1988e90c39a8274f72a42214a59ea1ebc128f9fc.nq.gz",
+      "repolex": "aggregate/repolex/1988e90c39a8274f72a42214a59ea1ebc128f9fc.nq.gz",
+      "dep": "dep/1988e90c39a8274f72a42214a59ea1ebc128f9fc.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-env",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "asimov-patterns",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "asimov-registry",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "asimov-runner",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "asimov-snapshot",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3.8",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "18a9d41f329119836131c590ec8710bdddc65862",
+          "githubTag": "0.3.8",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "miette",
+          "ecosystem": "CARGO",
+          "version": "7.5",
+          "githubOrg": "zkat",
+          "githubRepo": "miette",
+          "githubUrl": "https://github.com/zkat/miette",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rayon",
+          "ecosystem": "CARGO",
+          "version": "1.11",
+          "githubOrg": "rayon-rs",
+          "githubRepo": "rayon",
+          "githubUrl": "https://github.com/rayon-rs/rayon",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "thiserror",
+          "ecosystem": "CARGO",
+          "version": "2",
+          "githubOrg": "dtolnay",
+          "githubRepo": "thiserror",
+          "githubUrl": "https://github.com/dtolnay/thiserror",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tokio",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubUrl": "https://github.com/tokio-rs/tokio",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "url",
+          "ecosystem": "CARGO",
+          "version": "2.5",
+          "githubOrg": "servo",
+          "githubRepo": "rust-url",
+          "githubUrl": "https://github.com/servo/rust-url",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "asimov-proxy",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.24",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3d22338585ee77fa92a50171acc7ea2b657a38ef",
+          "githubTag": "25.0.0-dev.24",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "infer",
+          "ecosystem": "CARGO",
+          "version": "0.19",
+          "githubOrg": "bojand",
+          "githubRepo": "infer",
+          "githubUrl": "https://github.com/bojand/infer",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "mime",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "hyperium",
+          "githubRepo": "mime",
+          "githubUrl": "https://github.com/hyperium/mime",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "indoc",
+          "ecosystem": "CARGO",
+          "version": "2.0",
+          "githubOrg": "dtolnay",
+          "githubRepo": "indoc",
+          "githubUrl": "https://github.com/dtolnay/indoc",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "cfg_aliases",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "katharostech",
+          "githubRepo": "cfg_aliases",
+          "githubUrl": "https://github.com/katharostech/cfg_aliases",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "shadow-rs",
+          "ecosystem": "CARGO",
+          "version": "1.4",
+          "githubOrg": "baoyachi",
+          "githubRepo": "shadow-rs",
+          "githubUrl": "https://github.com/baoyachi/shadow-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "cc",
+          "ecosystem": "CARGO",
+          "version": "1.2",
+          "githubOrg": "rust-lang",
+          "githubRepo": "cc-rs",
+          "githubUrl": "https://github.com/rust-lang/cc-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "known-errors",
+          "ecosystem": "CARGO",
+          "version": "0.1.1",
+          "githubOrg": "known-facts",
+          "githubRepo": "known-errors",
+          "githubCommit": "f187984687f951a9e8f4a074d54db1ab94faede2",
+          "githubTag": "0.1.1",
+          "githubUrl": "https://github.com/known-facts/known-errors",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/known-errors-0.1.1/src/sysexits.rs"
+        },
+        {
+          "packageName": "rbs",
+          "ecosystem": "RUBYGEMS",
+          "version": "4.0.0.",
+          "githubOrg": "ruby",
+          "githubRepo": "rbs",
+          "githubUrl": "https://github.com/ruby/rbs.git",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/gem/ruby/3.2.0/gems/rbs-4.0.0.dev.4/core/kernel.rbs"
+        },
+        {
+          "packageName": "rake",
+          "ecosystem": "RUBYGEMS",
+          "version": "13.0.6",
+          "githubOrg": "ruby",
+          "githubRepo": "rake",
+          "githubCommit": "5c60da8644a9e4f655e819252e3b6ca77f42b7af",
+          "githubTag": "v13.0.6",
+          "githubUrl": "https://github.com/ruby/rake",
+          "source": "lsp",
+          "install_path": "/usr/lib/ruby/gems/3.2.0/gems/rake-13.0.6/lib/rake/dsl_definition.rb"
+        }
       ]
     }
   ],
