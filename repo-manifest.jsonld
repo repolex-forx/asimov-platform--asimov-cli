@@ -91,8 +91,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/asimov-cli/commit/1b31fc56b192ed758e085cbb41127fc838cb74f4",
       "git:hexsha": "1b31fc56b192ed758e085cbb41127fc838cb74f4",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "25.0.0-dev.9"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "25.0.0-dev.9",
+      "repolex:parsedAt": "2026-05-08T01:43:41.001709+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asimov-platform/asimov-cli/commit/30fcb06b4871f85b26345c2fa35c329ccd88314c",
